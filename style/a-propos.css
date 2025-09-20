@@ -1,0 +1,28 @@
+section {
+    width: 50%;
+    margin: auto;
+}
+.propos {
+    border-right: 1px solid #8e86b5;
+    border-bottom: 1px solid #8e86b5;
+    padding: 50px;
+    margin-bottom: 80px;
+}
+h1, h2 {
+    font-size: 3.5em;
+    color: #FEE715;
+    margin-bottom: 15px;
+}
+p {
+    font-size: 1.2em;
+    color: #fbf6cb;
+    margin-bottom: 30px;
+}
+ul {
+    font-size: 1.2em;
+    color: #fbf6cb;
+    margin-bottom: 50px;
+}
+li {
+    margin: 10px;
+}
